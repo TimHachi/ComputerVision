@@ -1,5 +1,5 @@
 # Python Code for assignments
-One of my attempts in an interview assignment
+One of my attempts in an interview assignment. Code is originally written for Jupyter Notebook, which is the reason why unrelated comments or functions such as show() exists in the soruce code
 
 Compution_vision.py is to identify number of boxes in a picture.
 
